@@ -1,5 +1,5 @@
 
-# Final Project -- Ana & Fabiana
+# Final Project
 
 ## Superscalar Processor & 2-Way Caches
 
