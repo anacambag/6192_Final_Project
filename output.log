@@ -1,0 +1,1116 @@
+Kanata	0004
+C=	1
+I	              0	              0	  0
+S	              0	          0	F
+I	              1	              1	  0
+S	              1	          0	F
+L	              0	          0	0x00000000: 
+L	              1	          0	0x00000004: 
+C	1
+I	              2	              2	  0
+S	              2	          0	F
+I	              3	              3	  0
+S	              3	          0	F
+L	              2	          0	0x00000008: 
+L	              3	          0	0x0000000c: 
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+S	              0	          0	D
+L	              0	          0	DASM(00000093)
+L	              0	          0	instruction 1
+S	              1	          0	D
+L	              1	          0	DASM(00000113)
+L	              1	          0	instruction 2
+C	1
+L	              0	          0	execute 1
+S	              0	          0	E
+L	              1	          0	execute 2
+S	              1	          0	E
+I	              4	              4	  0
+S	              4	          0	F
+I	              5	              5	  0
+S	              5	          0	F
+L	              4	          0	0x00000010: 
+L	              5	          0	0x00000014: 
+C	1
+S	              0	          0	W
+L	              0	          0	WRITEBACK 1
+L	              1	          0	WRITEBACK 2
+S	              1	          0	W
+S	              2	          0	D
+L	              2	          0	DASM(00000193)
+L	              2	          0	instruction 1
+S	              3	          0	D
+L	              3	          0	DASM(00000213)
+L	              3	          0	instruction 2
+C	1
+L	              2	          0	execute 1
+S	              2	          0	E
+L	              3	          0	execute 2
+S	              3	          0	E
+I	              6	              6	  0
+S	              6	          0	F
+I	              7	              7	  0
+S	              7	          0	F
+L	              6	          0	0x00000018: 
+L	              7	          0	0x0000001c: 
+R	              0	              0	          0
+C	1
+S	              2	          0	W
+L	              2	          0	WRITEBACK 1
+L	              3	          0	WRITEBACK 2
+S	              3	          0	W
+R	              1	              1	          0
+C	1
+S	              4	          0	D
+L	              4	          0	DASM(00000293)
+L	              4	          0	instruction 1
+S	              5	          0	D
+L	              5	          0	DASM(00000313)
+L	              5	          0	instruction 2
+R	              2	              2	          0
+C	1
+L	              4	          0	execute 1
+S	              4	          0	E
+L	              5	          0	execute 2
+S	              5	          0	E
+I	              8	              8	  0
+S	              8	          0	F
+I	              9	              9	  0
+S	              9	          0	F
+L	              8	          0	0x00000020: 
+L	              9	          0	0x00000024: 
+R	              3	              3	          0
+C	1
+S	              4	          0	W
+L	              4	          0	WRITEBACK 1
+L	              5	          0	WRITEBACK 2
+S	              5	          0	W
+S	              6	          0	D
+L	              6	          0	DASM(00000393)
+L	              6	          0	instruction 1
+S	              7	          0	D
+L	              7	          0	DASM(00000413)
+L	              7	          0	instruction 2
+C	1
+L	              6	          0	execute 1
+S	              6	          0	E
+L	              7	          0	execute 2
+S	              7	          0	E
+I	             10	             10	  0
+S	             10	          0	F
+I	             11	             11	  0
+S	             11	          0	F
+L	             10	          0	0x00000028: 
+L	             11	          0	0x0000002c: 
+R	              4	              4	          0
+C	1
+S	              6	          0	W
+L	              6	          0	WRITEBACK 1
+L	              7	          0	WRITEBACK 2
+S	              7	          0	W
+R	              5	              5	          0
+C	1
+S	              8	          0	D
+L	              8	          0	DASM(00000493)
+L	              8	          0	instruction 1
+S	              9	          0	D
+L	              9	          0	DASM(00000513)
+L	              9	          0	instruction 2
+R	              6	              6	          0
+C	1
+L	              8	          0	execute 1
+S	              8	          0	E
+L	              9	          0	execute 2
+S	              9	          0	E
+I	             12	             12	  0
+S	             12	          0	F
+I	             13	             13	  0
+S	             13	          0	F
+L	             12	          0	0x00000030: 
+L	             13	          0	0x00000034: 
+R	              7	              7	          0
+C	1
+S	              8	          0	W
+L	              8	          0	WRITEBACK 1
+L	              9	          0	WRITEBACK 2
+S	              9	          0	W
+S	             10	          0	D
+L	             10	          0	DASM(00000593)
+L	             10	          0	instruction 1
+S	             11	          0	D
+L	             11	          0	DASM(00000613)
+L	             11	          0	instruction 2
+C	1
+L	             10	          0	execute 1
+S	             10	          0	E
+L	             11	          0	execute 2
+S	             11	          0	E
+I	             14	             14	  0
+S	             14	          0	F
+I	             15	             15	  0
+S	             15	          0	F
+L	             14	          0	0x00000038: 
+L	             15	          0	0x0000003c: 
+R	              8	              8	          0
+C	1
+S	             10	          0	W
+L	             10	          0	WRITEBACK 1
+L	             11	          0	WRITEBACK 2
+S	             11	          0	W
+R	              9	              9	          0
+C	1
+S	             12	          0	D
+L	             12	          0	DASM(00000693)
+L	             12	          0	instruction 1
+S	             13	          0	D
+L	             13	          0	DASM(00000713)
+L	             13	          0	instruction 2
+R	             10	             10	          0
+C	1
+L	             12	          0	execute 1
+S	             12	          0	E
+L	             13	          0	execute 2
+S	             13	          0	E
+I	             16	             16	  0
+S	             16	          0	F
+I	             17	             17	  0
+S	             17	          0	F
+L	             16	          0	0x00000040: 
+L	             17	          0	0x00000044: 
+R	             11	             11	          0
+C	1
+S	             12	          0	W
+L	             12	          0	WRITEBACK 1
+L	             13	          0	WRITEBACK 2
+S	             13	          0	W
+S	             14	          0	D
+L	             14	          0	DASM(00000793)
+L	             14	          0	instruction 1
+S	             15	          0	D
+L	             15	          0	DASM(00000813)
+L	             15	          0	instruction 2
+C	1
+L	             14	          0	execute 1
+S	             14	          0	E
+L	             15	          0	execute 2
+S	             15	          0	E
+I	             18	             18	  0
+S	             18	          0	F
+I	             19	             19	  0
+S	             19	          0	F
+L	             18	          0	0x00000048: 
+L	             19	          0	0x0000004c: 
+R	             12	             12	          0
+C	1
+S	             14	          0	W
+L	             14	          0	WRITEBACK 1
+L	             15	          0	WRITEBACK 2
+S	             15	          0	W
+R	             13	             13	          0
+C	1
+R	             14	             14	          0
+C	1
+R	             15	             15	          0
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+S	             16	          0	D
+L	             16	          0	DASM(00000893)
+L	             16	          0	instruction 1
+S	             17	          0	D
+L	             17	          0	DASM(00000913)
+L	             17	          0	instruction 2
+C	1
+L	             16	          0	execute 1
+S	             16	          0	E
+L	             17	          0	execute 2
+S	             17	          0	E
+I	             20	             20	  0
+S	             20	          0	F
+I	             21	             21	  0
+S	             21	          0	F
+L	             20	          0	0x00000050: 
+L	             21	          0	0x00000054: 
+C	1
+S	             16	          0	W
+L	             16	          0	WRITEBACK 1
+L	             17	          0	WRITEBACK 2
+S	             17	          0	W
+S	             18	          0	D
+L	             18	          0	DASM(00000993)
+L	             18	          0	instruction 1
+S	             19	          0	D
+L	             19	          0	DASM(00000a13)
+L	             19	          0	instruction 2
+C	1
+L	             18	          0	execute 1
+S	             18	          0	E
+L	             19	          0	execute 2
+S	             19	          0	E
+I	             22	             22	  0
+S	             22	          0	F
+I	             23	             23	  0
+S	             23	          0	F
+L	             22	          0	0x00000058: 
+L	             23	          0	0x0000005c: 
+R	             16	             16	          0
+C	1
+S	             18	          0	W
+L	             18	          0	WRITEBACK 1
+L	             19	          0	WRITEBACK 2
+S	             19	          0	W
+R	             17	             17	          0
+C	1
+S	             20	          0	D
+L	             20	          0	DASM(00000a93)
+L	             20	          0	instruction 1
+S	             21	          0	D
+L	             21	          0	DASM(00000b13)
+L	             21	          0	instruction 2
+R	             18	             18	          0
+C	1
+L	             20	          0	execute 1
+S	             20	          0	E
+L	             21	          0	execute 2
+S	             21	          0	E
+I	             24	             24	  0
+S	             24	          0	F
+I	             25	             25	  0
+S	             25	          0	F
+L	             24	          0	0x00000060: 
+L	             25	          0	0x00000064: 
+R	             19	             19	          0
+C	1
+S	             20	          0	W
+L	             20	          0	WRITEBACK 1
+L	             21	          0	WRITEBACK 2
+S	             21	          0	W
+S	             22	          0	D
+L	             22	          0	DASM(00000b93)
+L	             22	          0	instruction 1
+S	             23	          0	D
+L	             23	          0	DASM(00000c13)
+L	             23	          0	instruction 2
+C	1
+L	             22	          0	execute 1
+S	             22	          0	E
+L	             23	          0	execute 2
+S	             23	          0	E
+I	             26	             26	  0
+S	             26	          0	F
+I	             27	             27	  0
+S	             27	          0	F
+L	             26	          0	0x00000068: 
+L	             27	          0	0x0000006c: 
+R	             20	             20	          0
+C	1
+S	             22	          0	W
+L	             22	          0	WRITEBACK 1
+L	             23	          0	WRITEBACK 2
+S	             23	          0	W
+R	             21	             21	          0
+C	1
+S	             24	          0	D
+L	             24	          0	DASM(00000c93)
+L	             24	          0	instruction 1
+S	             25	          0	D
+L	             25	          0	DASM(00000d13)
+L	             25	          0	instruction 2
+R	             22	             22	          0
+C	1
+L	             24	          0	execute 1
+S	             24	          0	E
+L	             25	          0	execute 2
+S	             25	          0	E
+I	             28	             28	  0
+S	             28	          0	F
+I	             29	             29	  0
+S	             29	          0	F
+L	             28	          0	0x00000070: 
+L	             29	          0	0x00000074: 
+R	             23	             23	          0
+C	1
+S	             24	          0	W
+L	             24	          0	WRITEBACK 1
+L	             25	          0	WRITEBACK 2
+S	             25	          0	W
+S	             26	          0	D
+L	             26	          0	DASM(00000d93)
+L	             26	          0	instruction 1
+S	             27	          0	D
+L	             27	          0	DASM(00000e13)
+L	             27	          0	instruction 2
+C	1
+L	             26	          0	execute 1
+S	             26	          0	E
+L	             27	          0	execute 2
+S	             27	          0	E
+I	             30	             30	  0
+S	             30	          0	F
+I	             31	             31	  0
+S	             31	          0	F
+L	             30	          0	0x00000078: 
+L	             31	          0	0x0000007c: 
+R	             24	             24	          0
+C	1
+S	             26	          0	W
+L	             26	          0	WRITEBACK 1
+L	             27	          0	WRITEBACK 2
+S	             27	          0	W
+R	             25	             25	          0
+C	1
+S	             28	          0	D
+L	             28	          0	DASM(00000e93)
+L	             28	          0	instruction 1
+S	             29	          0	D
+L	             29	          0	DASM(00000f13)
+L	             29	          0	instruction 2
+R	             26	             26	          0
+C	1
+L	             28	          0	execute 1
+S	             28	          0	E
+L	             29	          0	execute 2
+S	             29	          0	E
+I	             32	             32	  0
+S	             32	          0	F
+I	             33	             33	  0
+S	             33	          0	F
+L	             32	          0	0x00000080: 
+L	             33	          0	0x00000084: 
+R	             27	             27	          0
+C	1
+S	             28	          0	W
+L	             28	          0	WRITEBACK 1
+L	             29	          0	WRITEBACK 2
+S	             29	          0	W
+S	             30	          0	D
+L	             30	          0	DASM(00000f93)
+L	             30	          0	instruction 1
+S	             31	          0	D
+L	             31	          0	DASM(10000137)
+L	             31	          0	instruction 2
+C	1
+L	             30	          0	execute 1
+S	             30	          0	E
+L	             31	          0	execute 2
+S	             31	          0	E
+I	             34	             34	  0
+S	             34	          0	F
+I	             35	             35	  0
+S	             35	          0	F
+L	             34	          0	0x00000088: 
+L	             35	          0	0x0000008c: 
+R	             28	             28	          0
+C	1
+S	             30	          0	W
+L	             30	          0	WRITEBACK 1
+L	             31	          0	WRITEBACK 2
+S	             31	          0	W
+R	             29	             29	          0
+C	1
+R	             30	             30	          0
+C	1
+R	             31	             31	          0
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+S	             32	          0	D
+L	             32	          0	DASM(ff010113)
+L	             32	          0	instruction 1
+S	             33	          0	D
+L	             33	          0	DASM(018010ef)
+L	             33	          0	instruction 2
+C	1
+L	             32	          0	execute 1
+S	             32	          0	E
+I	             36	             36	  0
+S	             36	          0	F
+I	             37	             37	  0
+S	             37	          0	F
+L	             36	          0	0x00000090: 
+L	             37	          0	0x00000094: 
+C	1
+S	             32	          0	W
+L	             32	          0	WRITEBACK 1
+L	             33	          0	execute 1
+S	             33	          0	E
+L	             33	          0	Thinks this mispredicts the next
+S	             34	          0	D
+L	             34	          0	DASM(00000513)
+L	             34	          0	instruction 1
+S	             35	          0	D
+L	             35	          0	DASM(7d9000ef)
+L	             35	          0	instruction 2
+C	1
+S	             33	          0	W
+L	             33	          0	WRITEBACK 1
+L	             34	          0	execute 1
+I	             38	             38	  0
+S	             38	          0	F
+I	             39	             39	  0
+S	             39	          0	F
+L	             38	          0	0x0000109c: 
+L	             39	          0	0x000010a0: 
+R	             32	             32	          0
+C	1
+L	             35	          0	execute 1
+R	             33	             33	          0
+R	             34	          0	          1
+C	1
+S	             36	          0	D
+L	             36	          0	DASM(0000006f)
+L	             36	          0	instruction 1
+S	             37	          0	D
+L	             37	          0	DASM(00000000)
+L	             37	          0	instruction 2
+R	             35	          0	          1
+C	1
+L	             36	          0	execute 1
+I	             40	             40	  0
+S	             40	          0	F
+I	             41	             41	  0
+S	             41	          0	F
+L	             40	          0	0x000010a4: 
+L	             41	          0	0x000010a8: 
+C	1
+L	             37	          0	execute 1
+R	             36	          0	          1
+C	1
+R	             37	          0	          1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+S	             38	          0	D
+L	             38	          0	DASM(00b00513)
+L	             38	          0	instruction 1
+S	             39	          0	D
+L	             39	          0	DASM(00008067)
+L	             39	          0	instruction 2
+C	1
+L	             38	          0	execute 1
+S	             38	          0	E
+I	             42	             42	  0
+S	             42	          0	F
+I	             43	             43	  0
+S	             43	          0	F
+L	             42	          0	0x000010ac: 
+L	             43	          0	0x000010b0: 
+C	1
+S	             38	          0	W
+L	             38	          0	WRITEBACK 1
+L	             39	          0	execute 1
+S	             39	          0	E
+L	             39	          0	Thinks this mispredicts the next
+S	             40	          0	D
+L	             40	          0	DASM(aaaaaaaa)
+L	             40	          0	instruction 1
+S	             41	          0	D
+L	             41	          0	DASM(aaaaaaaa)
+L	             41	          0	instruction 2
+C	1
+S	             39	          0	W
+L	             39	          0	WRITEBACK 1
+L	             40	          0	execute 1
+I	             44	             44	  0
+S	             44	          0	F
+I	             45	             45	  0
+S	             45	          0	F
+L	             44	          0	0x00000088: 
+L	             45	          0	0x0000008c: 
+R	             38	             34	          0
+C	1
+L	             41	          0	execute 1
+R	             39	             35	          0
+R	             40	          0	          1
+C	1
+S	             42	          0	D
+L	             42	          0	DASM(aaaaaaaa)
+L	             42	          0	instruction 1
+S	             43	          0	D
+L	             43	          0	DASM(aaaaaaaa)
+L	             43	          0	instruction 2
+R	             41	          0	          1
+C	1
+L	             42	          0	execute 1
+I	             46	             46	  0
+S	             46	          0	F
+I	             47	             47	  0
+S	             47	          0	F
+L	             46	          0	0x00000090: 
+L	             47	          0	0x00000094: 
+C	1
+L	             43	          0	execute 1
+S	             44	          0	D
+L	             44	          0	DASM(00000513)
+L	             44	          0	instruction 1
+S	             45	          0	D
+L	             45	          0	DASM(7d9000ef)
+L	             45	          0	instruction 2
+R	             42	          0	          1
+C	1
+L	             44	          0	execute 1
+S	             44	          0	E
+I	             48	             48	  0
+S	             48	          0	F
+I	             49	             49	  0
+S	             49	          0	F
+L	             48	          0	0x00000098: 
+L	             49	          0	0x0000009c: 
+R	             43	          0	          1
+C	1
+S	             44	          0	W
+L	             44	          0	WRITEBACK 1
+L	             45	          0	execute 1
+S	             45	          0	E
+L	             45	          0	Thinks this mispredicts the next
+C	1
+S	             45	          0	W
+L	             45	          0	WRITEBACK 1
+S	             46	          0	D
+L	             46	          0	DASM(0000006f)
+L	             46	          0	instruction 1
+S	             47	          0	D
+L	             47	          0	DASM(00000000)
+L	             47	          0	instruction 2
+R	             44	             36	          0
+C	1
+L	             46	          0	execute 1
+I	             50	             50	  0
+S	             50	          0	F
+I	             51	             51	  0
+S	             51	          0	F
+L	             50	          0	0x00001064: 
+L	             51	          0	0x00001068: 
+R	             45	             37	          0
+C	1
+L	             47	          0	execute 1
+S	             48	          0	D
+L	             48	          0	DASM(00000000)
+L	             48	          0	instruction 1
+S	             49	          0	D
+L	             49	          0	DASM(00000000)
+L	             49	          0	instruction 2
+R	             46	          0	          1
+C	1
+L	             48	          0	execute 1
+I	             52	             52	  0
+S	             52	          0	F
+I	             53	             53	  0
+S	             53	          0	F
+L	             52	          0	0x0000106c: 
+L	             53	          0	0x00001070: 
+R	             47	          0	          1
+C	1
+L	             49	          0	execute 1
+R	             48	          0	          1
+C	1
+R	             49	          0	          1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+C	1
+S	             50	          0	D
+L	             50	          0	DASM(fe010113)
+L	             50	          0	instruction 1
+S	             51	          0	D
+L	             51	          0	DASM(00812e23)
+L	             51	          0	instruction 2
+C	1
+L	             50	          0	execute 1
+S	             50	          0	E
+S	             51	          0	D
+L	             51	          0	DASM(00812e23)
+L	             51	          0	instruction 1 stall
+C	1
+S	             50	          0	W
+L	             50	          0	WRITEBACK 1
+S	             51	          0	D
+L	             51	          0	DASM(00812e23)
+L	             51	          0	instruction 1
+S	             52	          0	D
+L	             52	          0	DASM(02010413)
+L	             52	          0	instruction 2
+C	1
+L	             51	          0	execute 1
+S	             51	          0	E
+L	             51	          0	 (MEM)Mem { byte_en: 'hf, addr: 'h0fffffec, data: 'h00000000 }
+I	             54	             54	  0
+S	             54	          0	F
+I	             55	             55	  0
+S	             55	          0	F
+L	             54	          0	0x00001074: 
+L	             55	          0	0x00001078: 
+S	             53	          0	D
+L	             53	          0	DASM(fea42623)
+L	             53	          0	instruction 1 stall
+R	             50	             38	          0
+C	1
+L	             52	          0	execute 1
+S	             52	          0	E
+I	             56	             56	  0
+S	             56	          0	F
+L	             56	          0	0x0000107c: 
+S	             53	          0	D
+L	             53	          0	DASM(fea42623)
+L	             53	          0	instruction 1 stall
+C	1
+S	             51	          0	W
+L	             51	          0	WRITEBACK 1
+S	             53	          0	D
+L	             53	          0	DASM(fea42623)
+L	             53	          0	instruction 1 stall
+C	1
+S	             52	          0	W
+L	             52	          0	WRITEBACK 1
+S	             53	          0	D
+L	             53	          0	DASM(fea42623)
+L	             53	          0	instruction 1
+R	             51	             39	          0
+C	1
+L	             53	          0	execute 1
+S	             53	          0	E
+L	             53	          0	 (MEM)Mem { byte_en: 'hf, addr: 'h0fffffdc, data: 'h00000000 }
+S	             54	          0	D
+L	             54	          0	DASM(00001797)
+L	             54	          0	instruction 1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 2
+R	             52	             40	          0
+C	1
+L	             54	          0	execute 1
+S	             54	          0	E
+I	             57	             57	  0
+S	             57	          0	F
+I	             58	             58	  0
+S	             58	          0	F
+L	             57	          0	0x00001080: 
+L	             58	          0	0x00001084: 
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             53	          0	W
+L	             53	          0	WRITEBACK 1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1 stall
+C	1
+S	             54	          0	W
+L	             54	          0	WRITEBACK 1
+S	             55	          0	D
+L	             55	          0	DASM(f9478793)
+L	             55	          0	instruction 1
+S	             56	          0	D
+L	             56	          0	DASM(0007a783)
+L	             56	          0	instruction 2
+R	             53	             41	          0
+C	1
+L	             55	          0	execute 1
+S	             55	          0	E
+S	             56	          0	D
+L	             56	          0	DASM(0007a783)
+L	             56	          0	instruction 1 stall
+R	             54	             42	          0
+C	1
+S	             55	          0	W
+L	             55	          0	WRITEBACK 1
+S	             56	          0	D
+L	             56	          0	DASM(0007a783)
+L	             56	          0	instruction 1
+S	             57	          0	D
+L	             57	          0	DASM(fec42703)
+L	             57	          0	instruction 2
+C	1
+L	             56	          0	execute 1
+S	             56	          0	E
+L	             56	          0	 (MEM)Mem { byte_en: 'h0, addr: 'h00002008, data: 'h00000000 }
+I	             59	             59	  0
+S	             59	          0	F
+I	             60	             60	  0
+S	             60	          0	F
+L	             59	          0	0x00001088: 
+L	             60	          0	0x0000108c: 
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+R	             55	             43	          0
+C	1
+L	             57	          0	execute 1
+S	             57	          0	E
+L	             57	          0	 (MEM)Mem { byte_en: 'h0, addr: 'h0fffffdc, data: 'h00000000 }
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             56	          0	W
+L	             56	          0	WRITEBACK 1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1 stall
+C	1
+S	             57	          0	W
+L	             57	          0	WRITEBACK 1
+S	             58	          0	D
+L	             58	          0	DASM(00e7a023)
+L	             58	          0	instruction 1
+S	             59	          0	D
+L	             59	          0	DASM(fec42783)
+L	             59	          0	instruction 2
+R	             56	             44	          0
+C	1
+L	             58	          0	execute 1
+S	             58	          0	E
+L	             58	          0	 (MMIO)Mem { byte_en: 'hf, addr: 'hf000fff8, data: 'h00000000 }
+I	             61	             61	  0
+S	             61	          0	F
+I	             62	             62	  0
+S	             62	          0	F
+L	             61	          0	0x00001090: 
+L	             62	          0	0x00001094: 
+S	             60	          0	D
+L	             60	          0	DASM(00078513)
+L	             60	          0	instruction 1 stall
+R	             57	             45	          0
+C	1

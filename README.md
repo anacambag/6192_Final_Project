@@ -1,2 +1,5 @@
-# Super Scalar and Branch Prediction Implementation
+
+# Final Project -- Ana & Fabiana
+
+## Superscalar Processor & 2-Way Caches
 
